@@ -1,6 +1,6 @@
 # NodeSeek-Signin
 
-NodeSeek论坛签到，借助github action或青龙面板 自动触发，默认选择随机签到.
+NodeSeek论坛签到，借助github action或青龙面板 自动触发，默认选择随机签到
 
 ## Action 
 
